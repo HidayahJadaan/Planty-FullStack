@@ -104,7 +104,9 @@ export default function Login() {
               <span>Login</span>
               <i class="ri-login-circle-line icon"></i>
             </button>
-
+            <Link to="/dashboard">
+              <button className="btn">Dashboard</button>
+            </Link>
             <span className="forgetPassword">
               Forget your password <a href="#">Click Here</a>
             </span>
