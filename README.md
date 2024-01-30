@@ -1,2 +1,2 @@
 # Planty-FullStack
-ReactJs, Redux, NodeJs, MySQL
+ReactJs, NodeJs, MySQL
